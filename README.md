@@ -4,6 +4,8 @@ In this project we will analyse data that includes: aviation accident data from 
 
 This analysis is useful for the purchasing of aircrafts, in order to tailor to the expectations of a particular businessterms.
 
+For a Tableau presentation, refer to this link [Tablue](https://public.tableau.com/views/Phase1-Project-Dashboard/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Objectives
 
 - Understand the datadet.
