@@ -2,6 +2,8 @@
 ## Introduction
 In this project we will analyse data that includes: aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters, from the National Transportation Safety Board.
 
+This analysis is useful for the purchasing of aircrafts, in order to tailor to the expectations of a particular businessterms.
+
 ## Objectives
 
 - Understand the datadet.
