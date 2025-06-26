@@ -2,9 +2,11 @@
 ## Introduction
 In this project we will analyse data that includes: aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters, from the National Transportation Safety Board.
 
-This analysis is useful for the purchasing of aircrafts, in order to tailor to the expectations of a particular businessterms.
+This analysis is useful for the purchasing of aircrafts, in order to tailor to the expectations of a particular business.
 
-For a Tableau presentation, refer to this link [Tablue](https://public.tableau.com/views/Phase1-Project-Dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+_For a non-technical presentation of the data refer to this link_ [pdf](https://drive.google.com/file/d/1DdYbywnfSWvFA_B57CFsBlaKETSouVsP/view?usp=drive_link)
+
+_For a Tableau presentation, refer to this link_ [Tablue](https://public.tableau.com/views/Phase1-Project-Dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Objectives
 
